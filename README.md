@@ -9,7 +9,9 @@ AndroidのBluetoothオーディオコーデックと伝送設定を確認・変�
 
 ## ダウンロード
 
-このリポジトリの **Releases** を開き、利用するバージョンの **Assets** から `CodecPanel-1.0.1-beta.1-release.apk` をダウンロードしてください。
+このリポジトリの **Releases** を開き、利用するバージョンの **Assets** から、末尾が `-release.apk` のAPKファイルをダウンロードしてください。
+
+今後の配布ファイル名は `CodecPanel-1.0.1-beta-release.apk` のように、`beta` の後ろに番号を付けず、数字部分（`1.0.1` など）を更新する形式に統一します。過去に公開したリリースの添付ファイルには、名称変更が完了するまで旧表記が残る場合があります。
 
 `Source code (zip)` と `Source code (tar.gz)` はAndroidアプリのインストーラーではありません。インストールには `.apk` ファイルを使います。
 
