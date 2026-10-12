@@ -3,7 +3,7 @@
 ## インストール
 
 1. [正規の配布元のGitHub Releases](https://github.com/tsuki-to-082/CodecPanel/releases)を開きます。
-2. Assetsから `CodecPanel-1.0.1-beta.1-release.apk` をダウンロードします。
+2. Assetsから、末尾が `-release.apk` のAPKをダウンロードします。ファイル名の新しい形式は `CodecPanel-1.0.1-beta-release.apk` のように `beta` の後ろに番号を付けません。既存リリースでは旧表記のファイル名が残る場合があります。
 3. ダウンロードしたAPKを開きます。Androidから求められた場合は、そのブラウザーやファイルアプリからの「不明なアプリのインストール」を許可します。
 4. Androidのインストール画面を確認し、インストールします。
 
